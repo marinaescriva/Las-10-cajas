@@ -1,0 +1,28 @@
+
+body{
+    margin: 0;
+    padding:0;
+}
+
+#bk {
+
+    height: 100vh;
+    width: 100vw;
+
+    background-color: darkkhaki;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    height: 4em;
+    width: 4em;
+
+    background-color: blue;
+
+    margin: 1em;
+    margin: 2em;
+}
+
