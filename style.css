@@ -24,50 +24,96 @@ body{
 
 .boxA{
     background-color: blue;
-    transition: 1s;
+    transition: 0.4s;
 }
 .boxA:hover{
     background-color: rgb(204, 0, 255);
     border-radius: 50% 10% 10% 50%;
-    transition: 1s;
+    transition: 0.4s;
 }
 .boxB{
     background-color: rgb(17, 184, 81);
-    transition: 1s;
+    transition: 0.4s;
 }
 .boxB:hover{
     background-color: rgb(203, 247, 110);
-    border-radius: 20% 40% 40% 20%;
-    transition: 1s;
+    border-radius: 50% 20% 50% 20%;
+    transition: 0.4s;
 }
 .boxC{
     background-color: rgb(234, 231, 38);
-    transition: 1s;
+    transition: 0.4s;
 }
 .boxC:hover{
     background-color: rgb(243, 142, 42);
-    border-radius: 30% 30% 30% 30%;
+    border-radius: 80% 80% 30% 20%;
     margin-bottom: 2em;
-    transition: 1s;
+    transition:0.4s;
 }
 .boxD{
     background-color: rgb(227, 26, 36);
+    transition: 0.4s;
+}
+.boxD:hover{
+    background-color: rgb(52, 20, 167);
+    border-radius: 0% 10% 30% 50%;
+    margin-top: 2em;
+    transition: 0.4s;
 }
 .boxE{
     background-color: rgb(255, 0, 195);
+    transition: 0.4s;
+}
+.boxE:hover{
+    background-color: rgb(21, 189, 52);
+    border-radius: 50% 50% 10% 10%;
+    margin-bottom: 2em;
+    transition: 0.4s;
 }
 .boxF{
     background-color: rgb(45, 226, 243);
+    transition:0.4s;
+}
+.boxF:hover{
+    background-color: blueviolet;
+    border-width: 2em;
+    border-radius: 20% 70% 50% 40%;
+    transition:0.4s;
 }
 .boxG{
     background-color: rgb(229, 133, 24);
+    transition: 0.4s;
+}
+.boxG:hover{
+    background-color: rgb(200, 22, 146);
+    border-radius: 10% 30% 60% 30%;
+    transition: 0.4s;
 }
 .boxH{
     background-color: rgb(247, 247, 247);
+    transition: 0.4s;
+}
+.boxH:hover{
+    background-color: rgb(6, 6, 6);
+    border-radius: 60% 15% 40% 80%;
+    transition: 0.4s;
 }
 .boxI{
     background-color: rgb(38, 248, 45);
+    transition: 0.4s;
+}
+.boxI:hover{
+    background-color: rgb(220, 247, 67);
+    border-radius: 80%;
+    transition: 0.4s;
+
 }
 .boxJ{
     background-color: rgb(0, 0, 0);
+    transition: 0.4s;
+}
+.boxJ:hover{
+    background-color: rgb(145, 108, 238);
+    border-radius: 20% 50% 20% 50%;
+    transition: 0.4s;
 }
