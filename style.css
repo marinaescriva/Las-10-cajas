@@ -24,12 +24,31 @@ body{
 
 .boxA{
     background-color: blue;
+    transition: 1s;
+}
+.boxA:hover{
+    background-color: rgb(204, 0, 255);
+    border-radius: 50% 10% 10% 50%;
+    transition: 1s;
 }
 .boxB{
     background-color: rgb(17, 184, 81);
+    transition: 1s;
+}
+.boxB:hover{
+    background-color: rgb(203, 247, 110);
+    border-radius: 20% 40% 40% 20%;
+    transition: 1s;
 }
 .boxC{
     background-color: rgb(234, 231, 38);
+    transition: 1s;
+}
+.boxC:hover{
+    background-color: rgb(243, 142, 42);
+    border-radius: 30% 30% 30% 30%;
+    margin-bottom: 2em;
+    transition: 1s;
 }
 .boxD{
     background-color: rgb(227, 26, 36);
