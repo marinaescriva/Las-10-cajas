@@ -4,7 +4,7 @@ body{
     padding:0;
 }
 
-#bk {
+#main {
 
     height: 100vh;
     width: 100vw;
@@ -19,10 +19,36 @@ body{
 .box{
     height: 4em;
     width: 4em;
-
-    background-color: blue;
-
     margin: 1em;
-    margin: 2em;
 }
 
+.boxA{
+    background-color: blue;
+}
+.boxB{
+    background-color: rgb(17, 184, 81);
+}
+.boxC{
+    background-color: rgb(234, 231, 38);
+}
+.boxD{
+    background-color: rgb(227, 26, 36);
+}
+.boxE{
+    background-color: rgb(255, 0, 195);
+}
+.boxF{
+    background-color: rgb(45, 226, 243);
+}
+.boxG{
+    background-color: rgb(229, 133, 24);
+}
+.boxH{
+    background-color: rgb(247, 247, 247);
+}
+.boxI{
+    background-color: rgb(38, 248, 45);
+}
+.boxJ{
+    background-color: rgb(0, 0, 0);
+}
